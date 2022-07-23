@@ -1,7 +1,6 @@
 {
   "name": "alipay-sdk",
-  "version": "3.2.0",
-  "description": "蚂蚁金服开放平台 node sdk",
+  "version": "1.0.0",
   "main": "lib/alipay.js",
   "scripts": {
     "build": "npm run tsc",
@@ -14,12 +13,7 @@
     "prepublishOnly": "npm run tsc && npm run test"
   },
   "author": "dersoncheng",
-  "homepage": "https://github.com/ali-sdk/alipay-sdk",
-  "bugs": "https://github.com/ali-sdk/alipay-sdk/issues",
   "license": "ISC",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org"
-  },
   "dependencies": {
     "@fidm/x509": "^1.2.1",
     "@types/node": "^9.6.0",
