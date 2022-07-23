@@ -6,3 +6,4 @@ coverage/
 lib/*.d.ts
 .nyc_output
 .DS_Store
+.idea

@@ -27,6 +27,7 @@
     "camelcase-keys": "^4.2.0",
     "crypto-js": "^4.0.0",
     "decamelize": "^2.0.0",
+    "iconv-lite": "^0.6.3",
     "is": "^3.2.1",
     "is-json": "^2.0.1",
     "isuri": "^2.0.3",
